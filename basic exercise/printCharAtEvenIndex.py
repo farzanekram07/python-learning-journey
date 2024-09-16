@@ -5,3 +5,8 @@ def printCharAtEvenIndex(str):
     print()
 str = input("Enter the string: ")
 printCharAtEvenIndex(str) 
+
+
+#EXAMPLE
+# Input  : MYNAMEISFARZAN!!
+# Output : M N M I F R A !  
