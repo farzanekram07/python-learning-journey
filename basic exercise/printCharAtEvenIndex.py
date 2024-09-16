@@ -4,4 +4,4 @@ def printCharAtEvenIndex(str):
             print(str[i], end = " ")
     print()
 str = input("Enter the string: ")
-printCharAtEvenIndex(str)
+printCharAtEvenIndex(str) 
