@@ -13,12 +13,18 @@
 
 def sumOfCurrentNumberAndPreviousNumber(start, end):
     for currentNum in range(start, end):
-        previousSum = currentNum - 1
-        sumu =  currentNum + previousSum
-        print(f"Sum of {currentNum} and {previousSum}: ", sumu)
+        previousNum = currentNum - 1
+        sumu =  currentNum + previousNum
+        print(f"Sum of {currentNum} and {previousNum}: ", sumu)
 
-        previousSum = currentNum
+        previousNum = currentNum
 
 start, end = map(int, input("Enter the range till sum you want: ").split(','))
 sumOfCurrentNumberAndPreviousNumber(start, end)
 
+
+#EXAMPLE
+# Enter the range till sum you want: 4, 7
+# Sum of 4 and 3:  7
+# Sum of 5 and 4:  9
+# Sum of 6 and 5:  11
