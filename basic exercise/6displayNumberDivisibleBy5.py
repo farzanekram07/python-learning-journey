@@ -13,3 +13,5 @@ print("matching: ", displayNumDivBy5(List))
 
 
 #  EXAMPLE
+# original List:  [3, 10, 40, 33, 65]
+# matching:  [False, True, True, False, True]

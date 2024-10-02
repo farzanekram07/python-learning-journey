@@ -75,3 +75,7 @@ def findNumberOfOccurenceOfSubstringInAList(main_string, substring):
 mainString = "My name is farzan and my ign name is hakurrrpunk"
 subString = "name"
 print("number of times substring found:", findNumberOfOccurenceOfSubstringInAList(mainString, subString))
+
+
+# EXAMPLE
+# number of times substring found: 2
