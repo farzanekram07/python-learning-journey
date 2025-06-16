@@ -1,7 +1,7 @@
-### 🐍 python-learning-journey
+## 🐍 python-learning-journey
 A collection of beginner-friendly Python exercises created during my early-stage programming journey. This repository focuses on building a solid foundation in Python through practical examples.
 
-### 🚀 What’s Inside
+## 🚀 What’s Inside
 🔤 Input/Output exercises
 
 🔁 Loop and control flow practice
@@ -10,15 +10,15 @@ A collection of beginner-friendly Python exercises created during my early-stage
 
 📌 Simple logic-building problems
 
-### 📚 Purpose
+## 📚 Purpose
 This repository serves as a hands-on log of my learning progress while mastering Python fundamentals. It reflects my commitment to consistent learning and clean coding practices.
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 Python 3.x
 
 No external libraries required
 
-### 📎 Related Projects
+## 📎 Related Projects
 cli-weather-app – A command-line weather app using OpenWeatherMap API
 
 leetcode-python-solutions – Python solutions to LeetCode problems
