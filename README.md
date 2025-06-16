@@ -1,4 +1,4 @@
-## 🐍 python-learning-journey
+# 🐍 python-learning-journey
 A collection of beginner-friendly Python exercises created during my early-stage programming journey. This repository focuses on building a solid foundation in Python through practical examples.
 
 ## 🚀 What’s Inside
