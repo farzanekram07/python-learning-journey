@@ -14,11 +14,11 @@ A collection of beginner-friendly Python exercises created during my early-stage
 This repository serves as a hands-on log of my learning progress while mastering Python fundamentals. It reflects my commitment to consistent learning and clean coding practices.
 
 ## 🛠️ Tech Stack
-Python 3.x
+- Python 3.x
 
-No external libraries required
+- No external libraries required
 
 ## 📎 Related Projects
-cli-weather-app – A command-line weather app using OpenWeatherMap API
+- cli-weather-app – A command-line weather app using OpenWeatherMap API
 
-leetcode-python-solutions – Python solutions to LeetCode problems
+- leetcode-python-solutions – Python solutions to LeetCode problems
