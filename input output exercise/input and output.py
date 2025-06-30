@@ -21,7 +21,6 @@ age_input = input("Enter your age: ")
 
 #4. converting the input to an integer
 age = int(age_input)
-
 # Checking conditions based on user input
 if age < 0:
     print("Please enter a valid age.")
